@@ -11,8 +11,8 @@ ADD/SUB - Zoom IN/OUT
 
 Before Zooming   
 
-![Image](https://github.com/SlawekSt/Mandelbrot/blob/main/Maldebrot.PNG)
+![Image](https://github.com/SlawoStr/Mandelbrot/blob/master/Maldebrot.PNG)
 
 After Zooming   
 
-![Image](https://github.com/SlawekSt/Mandelbrot/blob/main/Maldebrot-Zoom.PNG)
+![Image](https://github.com/SlawoStr/Mandelbrot/blob/master/Maldebrot-Zoom.PNG)
